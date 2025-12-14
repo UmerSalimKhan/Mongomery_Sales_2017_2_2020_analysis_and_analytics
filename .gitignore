@@ -1,0 +1,18 @@
+# VENV 
+venv/
+
+# Dagster
+apdv-project/
+
+# Dotenv
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE files
+.vscode/
+
+# Checkpoint files
+.ipynb_checkpoints
