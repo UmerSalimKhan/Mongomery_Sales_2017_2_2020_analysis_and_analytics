@@ -7,6 +7,7 @@ This project aims to apply the techniques of data analysis and analytics to draw
 - [Time Series Forecasting](#time-series-forecasting)
 - [Getting Started](#getting-started)
 - [StreamLit App](#streamlit-app)
+- [Tableau](#tableau)
 - [Future Scope](#future-scope)
 
 ## Libraries Used
@@ -66,6 +67,9 @@ streamlit run app.py
 ## StreamLit App
 1. Streamlit app shows the interactive dashboard for the sales and other target.
 2. It also contains forecasting for furture one year not mentioned in data with forecasting components. 
+
+## Tableau 
+![Tableau](resources/tableau.gif)
 
 ## Future Scope
 There can be achieve a lot in this project. 
