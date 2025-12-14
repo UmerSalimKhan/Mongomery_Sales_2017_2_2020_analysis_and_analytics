@@ -17,9 +17,13 @@ Numpy, Pandas, Matplotlib, Seaborn, Prophet, StreamLit
 ```
 
 ## Dataset
+![Data Pipeline](resources/data-pipeline.png)
+
 [Data.gov Dataset Link]([https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset](https://catalog.data.gov/dataset/warehouse-and-retail-sales))
 
 300,000+ record with around a dozen of features of warehouses recorded during year 2017 to 2020 with retail sales, retail transfers, and warehouse sales. Making a multi target problem
+
+![Sub-data pipeline](resources/subdataalg.png)
 
 ## Time Series Forecasting
 
