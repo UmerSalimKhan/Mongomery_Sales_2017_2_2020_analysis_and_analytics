@@ -4,7 +4,7 @@ This project aims to apply the techniques of data analysis and analytics to draw
 ## Table of Content
 - [Libraries Used](#libraries-used)
 - [Dataset](#dataset)
-- [Model Selection](#model-selection)
+- [Time Series Forecasting](#time-series-forecasting)
 - [Getting Started](#getting-started)
 - [StreamLit App](#streamlit-app)
 - [Future Scope](#future-scope)
